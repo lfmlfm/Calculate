@@ -1,0 +1,5 @@
+D:\c#\简单计算器\Calculate\Calculate\bin\Debug\Calculate.exe
+D:\c#\简单计算器\Calculate\Calculate\bin\Debug\Calculate.pdb
+D:\c#\简单计算器\Calculate\Calculate\obj\x86\Debug\Calculate.exe
+D:\c#\简单计算器\Calculate\Calculate\obj\x86\Debug\Calculate.pdb
+D:\c#\简单计算器\Calculate\Calculate\obj\x86\Debug\Calculate.csprojResolveAssemblyReference.cache
